@@ -8,13 +8,17 @@
 
 <div align="center">
   
-  <a href="">[![Static Badge](https://img.shields.io/badge/chainlink--VRF-2.5-5bd1d7)](https://docs.chain.link/vrf)</a>
+  <a href="">[![Static Badge](https://img.shields.io/badge/Rootstock-orange)](https://dev.rootstock.io/)</a>
   <a href="">[![Static Badge](https://img.shields.io/badge/solidity-green)](https://ethereum.org/en/developers/docs/)</a>
   <a href="">[![Static Badge](https://img.shields.io/badge/react-green)](https://react.dev/)</a>
 </div>
 
 
 Rootagotchi is a blockchain-based virtual pet game inspired by the classic Tamagotchi. Raise and train with your unique digital creatures on the Ethereum blockchain!
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f02a27f2-dd3c-4c78-81fb-0f87e17043b4" width=50% height=50%/>
+</p>
 
 ## Table of Contents
 
