@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import 'nes.css/css/nes.min.css';
+
+body {
+  font-family: 'Press Start 2P', cursive;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
